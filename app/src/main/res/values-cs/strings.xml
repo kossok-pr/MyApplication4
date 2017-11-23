@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Můj program</string>
+    <string name="next_btn_text">Pokračovat</string>
+    <string name="subject_edit_hint">Téma</string>
+    <string name="text_edit_hint">Text</string>
+    <string name="send_btn_text">Poslát</string>
+</resources>

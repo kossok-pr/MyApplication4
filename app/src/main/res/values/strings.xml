@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="next_btn_text">Next</string>
+    <string name="subject_edit_hint">Subject</string>
+    <string name="text_edit_hint">Text</string>
+    <string name="send_btn_text">Send</string>
+</resources>
